@@ -16,7 +16,7 @@ Windows application in C# (.NET Framework 4.7.3) for downloading photos/videos/g
 
 ### 🎯 Basic Usage
 1. Enter posts count (e.g., 50)
-2. Enter tags separated by commas (e.g., "nature, landscape")
+2. Enter tags separated by commas
 3. Click "Start Download"
 4. Files save to ./downloads folder
 
@@ -25,7 +25,7 @@ Windows application in C# (.NET Framework 4.7.3) for downloading photos/videos/g
 ![Windows](https://img.shields.io/badge/Windows-7%2B-blue)
 ![.NET](https://img.shields.io/badge/.NET-4.7.3%2B-purple)
 ![RAM](https://img.shields.io/badge/RAM-512MB%2B-yellow)
-![Disk](https://img.shields.io/badge/Disk%20Space-100MB%2B-orange)
+![Disk](https://img.shields.io/badge/Disk%20Space-1GB%2B-orange)
 
 | Requirement | Minimum | Recommended |
 |-------------|---------|-------------|
