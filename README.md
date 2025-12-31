@@ -3,9 +3,7 @@
 ![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.7.3-blue)
 ![C#](https://img.shields.io/badge/C%23-7.3-green)
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-MIT-red)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Downloads](https://img.shields.io/badge/Downloads-1K%2B-brightgreen)
 
 Windows application in C# (.NET Framework 4.7.3) for downloading photos/videos/gifs from rule34.xxx.
 
