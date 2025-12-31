@@ -64,8 +64,8 @@ namespace _34Downloader.Engine
                 ["tags"] = tags,
                 ["limit"] = limit.ToString(),
                 ["json"] = "1",
-                ["api_key"] = "7f35b7269eb0e407af4dcf56595e94842b67ec8516633b12d4c3e2da9a19f22bd4995e41647620e4fc0caee306f6f6119981c40c3b8ba9f000edcc1f6e5168d2",
-                ["user_id"] = "5760539"
+                ["api_key"] = "ur_api_key",
+                ["user_id"] = "ur_user_id"
             };
         }
 
@@ -561,4 +561,5 @@ namespace _34Downloader.Engine
             }
         }
     }
+
 }
